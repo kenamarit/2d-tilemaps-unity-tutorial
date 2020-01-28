@@ -70,10 +70,12 @@
 - Animated Tiles
 - Isometric Tilemaps
 
-## Assets: ##
+## Assets Used In This Tutorial: ##
 
 - https://alexs-assets.itch.io/16x16-outdoors-tileset
 - https://maytch.itch.io/free-16x16-pixel-art-8-directional-characters
+-	https://blogs.unity3d.com/2019/03/18/isometric-2d-environments-with-tilemap/
+	- Used the character sprites and animation controller from this tutorial
 
 ## Additional resources: ##
 
