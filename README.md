@@ -32,6 +32,7 @@ The final Unity project is included as well for reference.
 
 - Draw your world
 - Make sure you are drawing on the correct layer
+- You can tint a tilemap layer any color. This is useful for e.g. different shades of grass
 
 ## Step 5: Character Controller ##
 
@@ -48,7 +49,7 @@ The final Unity project is included as well for reference.
 - Create an empty folder called 'Player'
 	- Drag and Drop the 'AnimationClips' and 'AnimationSprites' folders into the 'Player' folder
 
-- Drag-and-drop the PlayerController.controller file into the 'Player' folder.
+- Drag-and-drop the 'PlayerController.controller' file into the 'Player' folder.
 
 - On the 'PlayerRenderer' gameObject, add a 'Sprite Renderer' component and an 'Animator' component
 	- For the 'Sprite Renderer' component, select 'witch static00' as the Sprite.
@@ -62,7 +63,7 @@ The final Unity project is included as well for reference.
 - Add 'BasicCameraFollow' script to Project
 	- Drag-and-drop the script onto the 'Main Camera'
 
-## Step 6: Colliders ##
+## Step 6: Basic Colliders ##
 
 - On the 'Player' gameObject, add a 'Circle Collider 2D' component.
 	- Set the radius to 0.25 and the Y offset to -0.25. You can play with these values and use whatever makes sense with your character.
