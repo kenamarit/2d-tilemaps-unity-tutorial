@@ -1,5 +1,9 @@
 # Unity 2D Tilemap Basics #
 
+https://github.com/kenamarit/2d-tilemaps-unity-tutorial
+
+Here is a Unity project and step-by-step instructions for creating a basic 2d Tilemap world in Unity. Originally created as a tutorial for the Ladies Unity Circle meetup on 1/28/20.
+
 ## Step 1: Create a new project ##
 
 - Open Unity and create a new 2D project
