@@ -22,7 +22,7 @@ The final Unity project is included as well for reference.
 
 - In the 'Hierarchy' window, select Create->2d Objects->Tilemap
 
-- Create 4 duplicates of the Tilemap GameObject (found underneath the 'Grid' parent) and rename them: 'Water', 'Ground', 'Path', 'Foreground'
+- Create 4 duplicates of the Tilemap GameObject (found underneath the 'Grid' parent) and rename them: 'Water', 'Ground', 'Path', 'Foreground', 'Foreground-Collider'
 
 - In the 'Tile Palette' window, select 'Create New Palette.' Name your palette 'World' (or whatever you want) and click 'Create.' A file explorer window will pop up. Select the 'Tiles' folder you created in the previous step.
 
